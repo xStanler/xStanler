@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>A side project called **Learnify App** - anki-style app with timely-based words appearance schedule.<br><br>🤝 I’m looking for help with CI/CD pipelines and code readability.<br><br>🌱 I’m currently learning SwiftUI, Swift and Docker.<br><br>💬 Feel free to ask me about anything about my projects.<br><br>⚡ Fun fact I'm currently taking my CS Degree.
+🔭 I’m currently working on<br>A side project called **Learnify App** - anki-style app with timely-based words appearance schedule.<br><br>🤝 I’m looking for help with CI/CD pipelines and code readability.<br><br>🌱 I’m currently learning Docker, K8s and CI/CD pipelines.<br><br>💬 Feel free to ask me about anything about my projects.<br><br>⚡ Fun fact I'm currently taking my CS Degree and doing summer internship @ CERN.
 
 
 ## 🌐 Socials:
